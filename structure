@@ -1,0 +1,10 @@
+src
+│
+├── components
+│   ├── Header.jsx
+│   ├── Footer.jsx
+│   ├── Home.jsx
+│   └── Login.jsx
+│
+├── App.jsx
+└── main.jsx
